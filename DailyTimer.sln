@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailyTimer", "DailyTimer\DailyTimer.csproj", "{B50FA7EF-FD61-4E80-AA56-1EC0097E249A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50FA7EF-FD61-4E80-AA56-1EC0097E249A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50FA7EF-FD61-4E80-AA56-1EC0097E249A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50FA7EF-FD61-4E80-AA56-1EC0097E249A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50FA7EF-FD61-4E80-AA56-1EC0097E249A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
